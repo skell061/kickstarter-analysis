@@ -16,11 +16,11 @@ We can see that throughout the year, the number of failed campaigns remains rela
 
 There is, however, a drastic spike of succesful campaigns within the summer months indicating that this is the best time to launch new campaigns. 
 
-![Theater Outcomes Based on Launch Dates](https://github.com/skell061/kickstarter_challenge/blob/298de396c27c460662eb41b0f2f26ef1b801ba00/Theater_Outcomes_vs_Launch.png)
+<img src="Resources/Theater_Outcomes_vs_Launch.png" width="500">
 
 ### Analysis of Outcomes Based on Goals
 
-We can see that there is a higher percentage of successful campaigns with lower goal amounts with a few exceptions, these should be inventigated further to find out what other factors may be influencing the campaigns' success.
+We can see that there is a higher percentage of successful campaigns with lower goal amounts with a few exceptions, these should be inventigated further to find out what other factors may be influencing the campaign's success.
 
 ![Outcomes Based on Goals](https://github.com/skell061/kickstarter_challenge/blob/298de396c27c460662eb41b0f2f26ef1b801ba00/Outcomes_vs_Goals.png)
 
