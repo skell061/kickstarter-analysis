@@ -1,2 +1,19 @@
-# kickstarter_challenge
-Analysis of how different Kickstarter campaigns fared in relation to their launch dates and their funding goals.
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+
+
+
